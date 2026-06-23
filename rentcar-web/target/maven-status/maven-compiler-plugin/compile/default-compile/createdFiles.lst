@@ -1,0 +1,11 @@
+com\mycompany\rentcar\web\JakartaRestConfiguration.class
+com\rentcar\model\Mobil.class
+com\rentcar\model\User.class
+com\rentcar\servlet\CustomerServlet.class
+com\rentcar\util\DBConnection.class
+com\rentcar\model\Transaksi.class
+com\rentcar\servlet\LoginServlet.class
+com\rentcar\servlet\TransaksiServlet.class
+com\mycompany\rentcar\web\resources\JakartaEE10Resource.class
+com\rentcar\servlet\MobilServlet.class
+com\rentcar\model\Customer.class
